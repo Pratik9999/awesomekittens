@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awesomekittens/static/css/main.0be30dd0.chunk.css",
+    "main.js": "/awesomekittens/static/js/main.1d070c68.chunk.js",
+    "main.js.map": "/awesomekittens/static/js/main.1d070c68.chunk.js.map",
+    "runtime-main.js": "/awesomekittens/static/js/runtime-main.99eee63d.js",
+    "runtime-main.js.map": "/awesomekittens/static/js/runtime-main.99eee63d.js.map",
+    "static/js/2.dc550ced.chunk.js": "/awesomekittens/static/js/2.dc550ced.chunk.js",
+    "static/js/2.dc550ced.chunk.js.map": "/awesomekittens/static/js/2.dc550ced.chunk.js.map",
+    "index.html": "/awesomekittens/index.html",
+    "precache-manifest.d96387d522e7fe04f836104a445c1707.js": "/awesomekittens/precache-manifest.d96387d522e7fe04f836104a445c1707.js",
+    "service-worker.js": "/awesomekittens/service-worker.js",
+    "static/css/main.0be30dd0.chunk.css.map": "/awesomekittens/static/css/main.0be30dd0.chunk.css.map",
+    "static/js/2.dc550ced.chunk.js.LICENSE.txt": "/awesomekittens/static/js/2.dc550ced.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99eee63d.js",
+    "static/js/2.dc550ced.chunk.js",
+    "static/css/main.0be30dd0.chunk.css",
+    "static/js/main.1d070c68.chunk.js"
+  ]
+}
